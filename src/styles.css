@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+.font-custom {
+    font-family: 'Abril Fatface', cursive;
+}
+
+body {
+    background: #b92b27;
+    background: -webkit-linear-gradient(to right, #0275d8, #b92b27);
+    background: linear-gradient(to right, #0275d8, #b92b27);
+}
+
+::selection {
+    color: white;
+    background: #0275d8;
+}
