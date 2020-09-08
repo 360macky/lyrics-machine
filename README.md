@@ -3,11 +3,11 @@
 <p align="center">😊 Get the lyrics of your favorite songs instantly ✌</p>
 
 <p align="center">
-    <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Made%20with&message=NodeJS&color=success" /></a>
-    <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Builded%20with&message=Webpack%204&color=00afdb" /></a>
-    <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Using&message=Babel%207.x&color=yellow" /></a>
-    <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Builded%20with&message=React%2016.13&color=blue" /></a>
-    <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=Stylized%20UI&message=Bootstrap%204.5&color=a400db" /></a>
+    <img src="https://img.shields.io/static/v1?label=Node.js&message=v11.14.0&color=success&logo=node.js" />
+    <img src="https://img.shields.io/static/v1?label=Webpack&message=v4.44.1%204&color=00afdb&logo=webpack" />
+    <img src="https://img.shields.io/static/v1?label=Babel&message=v7.x&color=yellow&logo=babel" />
+    <img src="https://img.shields.io/static/v1?label=ReactJS&message=v16.13&color=blue&logo=react" />
+    <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.5&color=a400db&logo=bootstrap" />
 </p>
 
 ## 🚀 Deployment
