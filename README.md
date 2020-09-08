@@ -14,6 +14,16 @@
     <img src="./.github/screenshot.png" />
 </p>
 
+<p align="center">
+⭐ Hope you liked this project. <b>Give it a star!</b> 🎉<br/>
+<img
+    src="https://img.shields.io/github/stars/360macky/lyrics-machine.svg?style=social"
+    title="Stars in PROJECT"
+    alt="Stars in PROJECT"
+    align="center"
+/>
+</p>
+
 ## 🚀 Deployment
 📦 Install the dependencies
 ```bash
