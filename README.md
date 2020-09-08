@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/static/v1?label=Bootstrap&message=v4.5&color=a400db&logo=bootstrap" />
 </p>
 
+<p align="center">
+    <img src="./.github/screenshot.png" />
+</p>
+
 ## 🚀 Deployment
 📦 Install the dependencies
 ```bash
