@@ -39,8 +39,6 @@ class MainForm extends React.Component {
                     });
                 }
             });
-
-        console.log('Hello');
     }
     handleChange(e) {
         const { value, name } = e.target;
@@ -139,7 +137,9 @@ function Results(props) {
     return (
         <div>
             <hr />
-            <h2 className="text-primary text-center font-custom">"{props.title}"</h2>
+            <h2 className="text-primary text-center font-custom">
+                "{props.title}"
+            </h2>
             <div className="text-center mb-5" id="lyrics">
                 {addLineBreaks(props.lyrics)}
             </div>
