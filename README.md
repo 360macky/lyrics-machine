@@ -18,8 +18,8 @@
 ⭐ Hope you liked this project. <b>Give it a star!</b> 🎉<br/>
 <img
     src="https://img.shields.io/github/stars/360macky/lyrics-machine.svg?style=social"
-    title="Stars in PROJECT"
-    alt="Stars in PROJECT"
+    title="Stars in LyricsMachine"
+    alt="Stars in LyricsMachine"
     align="center"
 />
 </p>
