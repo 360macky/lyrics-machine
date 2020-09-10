@@ -173,7 +173,7 @@ class App extends React.Component {
         return (
             <div>
                 <div className="container">
-                    <div className="text-white font-custom display-4 text-center mt-4">
+                    <div className="title-app text-white font-custom display-4 text-center mt-4">
                         LyricsMachine
                     </div>
                 </div>
