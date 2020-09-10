@@ -48,14 +48,6 @@ class MainForm extends React.Component {
         }
     }
     render() {
-        const addLineBreaks = (string) =>
-            string.split('\n').map((text, index) => (
-                <React.Fragment key={`${text}-${index}`}>
-                    {text}
-                    <br />
-                </React.Fragment>
-            ));
-
         return (
             <div className="card my-5 shadow">
                 <div className="card-body text-center">
