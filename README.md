@@ -24,6 +24,7 @@
 />
 </p>
 
+
 ## 🚀 Deployment
 📦 Install the dependencies
 ```bash
@@ -33,6 +34,26 @@ npm install
 ```bash
 npx webpack-dev-server -d
 ```
+
+
+## 🎁 Dependencies
+- @babel/cli: `^7.10.5`
+- @babel/core: `^7.11.1`
+- @babel/preset-env: `^7.11.0`
+- @babel/preset-react: `^7.10.4`
+- @vercel/static-build: `^0.17.8`
+- babel-loader: `^8.1.0`
+- bootstrap: `^4.5.2`
+- css-loader: `^4.2.1`
+- file-loader: `^6.0.0`
+- html-webpack-plugin: `^4.3.0`
+- react: `^16.13.1`
+- react-dom: `^16.13.1`
+- style-loader: `^1.2.1`
+- webpack: `^4.44.1`
+- webpack-cli: `^3.3.12`
+- webpack-dev-server": `^3.11.0`
+
 
 ## 📃 License
 Distributed under the MIT License.
